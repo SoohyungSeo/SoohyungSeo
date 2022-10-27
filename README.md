@@ -24,6 +24,7 @@
 	<img src="https://img.shields.io/badge/docker-181717?style=flat&logo=docker&logoColor=blue" />
 	<img src="https://img.shields.io/badge/NginX-181717?style=flat&logo=NginX&logoColor=green" />
 	<img src="https://img.shields.io/badge/redis-181717?style=flat&logo=redis&logoColor=red" />
+	<img src="https://img.shields.io/badge/swagger-181717?style=flat&logo=swagger&logoColor=green" />
 </div>
 <div align="center">
 <h3>📚 Frameworks, Platforms and Libraries 📚</h3>
