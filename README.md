@@ -17,9 +17,13 @@
 <div align="center">
 	<img src="https://img.shields.io/badge/JavaScript-007396?style=flat&logo=JavaScript&logoColor=#F7DF1E" />
 	<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=black" />
+	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=black" />
+	<img src="https://img.shields.io/badge/sequelize-4479A1?style=flat&logo=sequelize&logoColor=black" />
 	<img src="https://img.shields.io/badge/MongoDB-4479A1?style=flat&logo=MongoDB&logoColor=green" />
 	<img src="https://img.shields.io/badge/express-181717?style=flat&logo=express&logoColor=white" />
+	<img src="https://img.shields.io/badge/docker-181717?style=flat&logo=docker&logoColor=blue" />
+	<img src="https://img.shields.io/badge/NginX-181717?style=flat&logo=NginX&logoColor=green" />
+	<img src="https://img.shields.io/badge/redis-181717?style=flat&logo=redis&logoColor=red" />
 </div>
 <div align="center">
 <h3>📚 Frameworks, Platforms and Libraries 📚</h3>
