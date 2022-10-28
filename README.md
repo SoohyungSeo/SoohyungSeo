@@ -7,8 +7,6 @@
 -Backend Junior 
 	
 -Korea Republic, Seoul
-	
--Since 2022
 
 </div>
 <div align=center>
