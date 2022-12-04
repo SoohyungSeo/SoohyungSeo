@@ -7,10 +7,6 @@
 -Backend Junior 
 	
 -Korea Republic, Seoul
-	
-<div>
-	<h1>source : https://github.com/yunjin5450
-	</div>
 
 <div align="center">
 <h3> 🛠️ Platform 🛠️</h3>
