@@ -32,8 +32,6 @@
 	<img src="https://img.shields.io/badge/swagger-181717?style=flat&logo=swagger&logoColor=green" />
 	<img src="https://img.shields.io/badge/socket.io-181717?style=flat&logo=socket.io&logoColor=white" />
 	<img src="https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webRTC&logoColor=white" />
-</div>
-<div align="center">
 	<img src="https://img.shields.io/badge/Babel-F9DC3E?style=flat&logo=Babel&logoColor=black" />
 </div>
 <div align="center">
