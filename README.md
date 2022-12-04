@@ -2,7 +2,7 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SoohyungSeo%20Github!&fontSize=70" />	
 </div>
 <div align=center>
-<h2>About me</h2>
+<h2>👉About me</h2>
 	
 -Backend Junior 
 	
