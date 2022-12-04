@@ -8,6 +8,13 @@
 	
 -Korea Republic, Seoul
 
+<div align="center">
+<h3> 🛠️Platform</h3>
+</div>
+<div align="center">
+	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">	
+</div>
+	
 </div>
 <div align=center>
 	<h3>📚 Studying 📚</h3>	
@@ -23,17 +30,21 @@
 	<img src="https://img.shields.io/badge/NginX-181717?style=flat&logo=NginX&logoColor=green" />
 	<img src="https://img.shields.io/badge/redis-181717?style=flat&logo=redis&logoColor=red" />
 	<img src="https://img.shields.io/badge/swagger-181717?style=flat&logo=swagger&logoColor=green" />
+	<img src="https://img.shields.io/badge/socket.io-181717?style=flat&logo=socket.io&logoColor=white" />
+	<img src="https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webRTC&logoColor=white" />
 </div>
 <div align="center">
-<h3>📚 Frameworks, Platforms and Libraries 📚</h3>
+	<img src="https://img.shields.io/badge/Babel-F9DC3E?style=flat&logo=Babel&logoColor=black" />
 </div>
 <div align="center">
-	<img src=https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white>
-	<img src=https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens>
+<h3>📚 Frameworks, Language📚</h3>
+</div>
+<div align="center">
 	<img src=https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white>
-	<img src=https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white>
-	<img src=https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB>
-	</div>
+	<img src=https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white>
+	<img src=https://img.shields.io/badge/Pug-A86454?style=for-the-badge&logo=Pug&logoColor=black>
+</div>
+<hr></hr>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoohyungSeo&layout=compact">
 	</div>
