@@ -9,7 +9,7 @@
 -Korea Republic, Seoul
 
 <div align="center">
-<h3> 🛠️Platform</h3>
+<h3> 🛠️ Platform 🛠️</h3>
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">	
@@ -35,7 +35,7 @@
 	<img src="https://img.shields.io/badge/Babel-F9DC3E?style=flat&logo=Babel&logoColor=black" />
 </div>
 <div align="center">
-<h3>📚 Frameworks, Language📚</h3>
+<h3>🦾 Frameworks, Language 🔠</h3>
 </div>
 <div align="center">
 	<img src=https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white>
