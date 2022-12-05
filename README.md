@@ -51,6 +51,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=SoohyungSeo&theme=tokyonight&show_icons=true"> 
 </div>
 
+
 ![snake gif](https://github.com/Seosoohyung/Seosoohyung/blob/output/github-contribution-grid-snake.svg)
 
 <!--
