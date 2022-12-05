@@ -52,6 +52,10 @@
 </div>
 
 
+<div align="center">
+  ![snake gif](https://github.com/SoohyungSeo/SoohyungSeo/blob/output/github-contribution-grid-snake.svg)
+</div>
+
 
 <!--
 **nowhereim/nowhereim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
