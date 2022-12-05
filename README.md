@@ -53,8 +53,6 @@
 
 
 
-  ![snake gif](https://github.com/SoohyungSeo/SoohyungSeo/blob/output/github-contribution-grid-snake.svg)
-
 
 
 <!--
